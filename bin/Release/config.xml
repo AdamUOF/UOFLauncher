@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UOPath>D:\Games\Electronic Arts\Ultima Online Classic</UOPath>
+  <RazorPath>C:\Program Files (x86)\Razor</RazorPath>
+  <SallosPath />
+  <SteamPath />
+  <Settings>
+    <GeneralSettings>
+      <GeneralSettings>
+        <Name>SelectedAssistant</Name>
+        <DisplayName>Assistant Program</DisplayName>
+        <PossibleValues>
+          <string>Razor</string>
+          <string>Steam</string>
+          <string>Sallos</string>
+        </PossibleValues>
+        <SelectedValue>Razor</SelectedValue>
+      </GeneralSettings>
+      <GeneralSettings>
+        <Name>UpdateOnStart</Name>
+        <DisplayName>Enable Automatic Updates</DisplayName>
+        <PossibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PossibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GeneralSettings>
+    </GeneralSettings>
+  </Settings>
+</Config>

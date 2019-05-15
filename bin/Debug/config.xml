@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Config xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <UOPath>D:\Games\Electronic Arts\Ultima Online Classic</UOPath>
+  <RazorPath>C:\Program Files (x86)\Razor</RazorPath>
+  <SallosPath />
+  <SteamPath />
+  <Settings>
+    <GeneralSettings>
+      <GeneralSettings>
+        <Name>OperationType</Name>
+        <DisplayName>Operation Type</DisplayName>
+        <PossibleValues>
+          <string>Synchronous</string>
+          <string>Asynchronous</string>
+        </PossibleValues>
+        <SelectedValue>Synchronous</SelectedValue>
+      </GeneralSettings>
+      <GeneralSettings>
+        <Name>EnableSSL</Name>
+        <DisplayName>Enable SSL</DisplayName>
+        <PossibleValues>
+          <string>True</string>
+          <string>False</string>
+        </PossibleValues>
+        <SelectedValue>False</SelectedValue>
+      </GeneralSettings>
+    </GeneralSettings>
+  </Settings>
+</Config>
